@@ -1,0 +1,11 @@
+# Maven / Spring Boot
+target/
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
